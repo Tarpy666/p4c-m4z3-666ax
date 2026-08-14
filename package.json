@@ -1,0 +1,16 @@
+{
+  "name": "p4c-m4z3-666ax",
+  "version": "0.1.0",
+  "description": "P4C-M4Z3-666AX — clean-room maze-chase core (deterministic).",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0"
+  },
+  "license": "MIT"
+}
